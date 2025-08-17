@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About  Me:
 I'm Abhishek Shrivastav<br>Bachelor of Engineering in Computer Science & Engineering,<br>at, Srinivas Institute of Technology, Mangalore .Currently pursuing a Bachelor of Engineering in Computer Science & Engineering, with a strong focus on software development, algorithms, and data structures.<br>Eager to apply engineering principles and technical skills to solve real-world problems and contribute to cutting-edge projects in the tech industry.
 
 
