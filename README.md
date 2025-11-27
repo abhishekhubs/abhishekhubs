@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there , I'm Abhishek Shrivastav👋
+
 🔭 I’m currently working on:  <br>- Building ML models and deploying them into real-world applications  <br><br>🤝 I’m looking to collaborate on:  <br>- Machine Learning and Deep Learning projects  <br>- Web Development projects  <br>- Android app development (Kotlin)  <br>- Open-source contributions  <br><br>💻 I’m currently learning:  <br>- Artificial intelligence  & Machine Learning  <br>- Full Stack  <br>- Model Deployment (TFLite, TensorFlow, MobileNetV2)<br><br>🌐 Interested in AI, Data Science, Machine Learning and Next-Gen Tech
 
 
